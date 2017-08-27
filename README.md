@@ -32,7 +32,7 @@ Begin with an android device that has been factory reset and cleared of any carr
 
 ![Example homescreen](iab.png)
 
-1. Turn the device on airplane mode but enable wifi.
+1. Turn the device on airplane mode but enable WiFi.
 2. Create a google account with a memorable name and secure password. I suggest making a physical copy of this username and password and somehow pasting it/taping to to the outside of the device.
 3. Set up a mycelium account. Make physical backup of the seed for the end user and store in with the device.
 3. Set up a Bitholla account, in the username, append _ind to any name you choose, this will help others know that the phone is requesting indigent donations. Use the mycelium account to fund the bitholla account. (Bitholla is NOT a wallet, it is a convenience layer.)
